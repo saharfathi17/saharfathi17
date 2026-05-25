@@ -39,7 +39,7 @@ Building AI-native products that solve real-world problems at scale.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharfathi17&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharfathi17&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
