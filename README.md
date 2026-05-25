@@ -43,4 +43,5 @@ Building AI-native products that turn ideas into real-world systems.
 
 ## 📫 Contact
 - GitHub: https://github.com/saharfathi17
-- Email: your-email@example.com
+- Email: s.fathi17@gmail.com
+- WebSite: saharfathi.ir
