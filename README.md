@@ -1,19 +1,27 @@
 # Hi, I'm Sahar 👋
 
-🚀 AI & Backend Developer building scalable digital systems  
-💡 Focused on AI products, automation, and modern app development
+🚀 AI & Backend Developer  
+💡 Building scalable AI-powered systems and modern digital products
 
 ---
 
 ## ⚡ About Me
-- Building AI-powered tools & automation systems
-- Backend development with Node.js
-- iOS development with Swift
-- Passionate about scalable product design
+- AI-powered product builder
+- Backend developer (Node.js)
+- iOS developer (Swift / SwiftUI)
+- Focused on automation & scalable systems
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Focus Areas
+- AI automation systems
+- SaaS backend development
+- Mobile apps (iOS)
+- Prompt engineering & product design
+
+---
+
+## 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,21 +33,22 @@
 ---
 
 ## 📌 Featured Projects
-
-- 🤖 AI Automation Engine (content + workflow system)
+- 🤖 AI Content Automation Engine
 - ⚙️ Scalable Backend API (Node.js)
-- 📱 iOS App (Swift-based productivity tool)
+- 📱 iOS Productivity App (SwiftUI)
 
 ---
 
-## 🎯 Current Focus
-Building AI-native products that solve real-world problems at scale.
+## 🎯 Current Goal
+Building AI-native tools that solve real-world problems and scale globally.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable Version)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharfathi17&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saharfathi17&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saharfathi17&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
