@@ -1,43 +1,45 @@
 # Hi, I'm Sahar 👋
 
-I’m a developer focused on building AI-powered products and scalable digital systems.
+🚀 AI & Backend Developer building scalable digital systems  
+💡 Focused on AI products, automation, and modern app development
 
 ---
 
-## 🚀 What I Do
-- AI-powered tools & automation systems
+## ⚡ About Me
+- Building AI-powered tools & automation systems
 - Backend development with Node.js
-- iOS app development with Swift
-- Prompt engineering & content systems
+- iOS development with Swift
+- Passionate about scalable product design
 
 ---
 
-## 🧠 Interests
-- AI product design
-- Automation & growth systems
-- Building SaaS tools
-- Minimal, scalable tech products
+## 🧠 Tech Stack
 
----
-
-## 🛠 Tech Stack
-- Node.js
-- Swift
-- JavaScript / TypeScript
-- AI APIs & tools
-- Git & GitHub
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-- Project 1: AI automation tool
-- Project 2: Backend system
-- Project 3: Mobile app (Swift)
+
+- 🤖 AI Automation Engine (content + workflow system)
+- ⚙️ Scalable Backend API (Node.js)
+- 📱 iOS App (Swift-based productivity tool)
 
 ---
 
 ## 🎯 Current Focus
-Building AI-native products that turn ideas into real-world systems.
+Building AI-native products that solve real-world problems at scale.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharfathi17&show_icons=true&theme=tokyonight)
 
 ---
 
