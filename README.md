@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sahar 👋
 
-<!--
-**saharfathi17/saharfathi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building AI-powered products and scalable digital systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- AI-powered tools & automation systems
+- Backend development with Node.js
+- iOS app development with Swift
+- Prompt engineering & content systems
+
+---
+
+## 🧠 Interests
+- AI product design
+- Automation & growth systems
+- Building SaaS tools
+- Minimal, scalable tech products
+
+---
+
+## 🛠 Tech Stack
+- Node.js
+- Swift
+- JavaScript / TypeScript
+- AI APIs & tools
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+- Project 1: AI automation tool
+- Project 2: Backend system
+- Project 3: Mobile app (Swift)
+
+---
+
+## 🎯 Current Focus
+Building AI-native products that turn ideas into real-world systems.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/saharfathi17
+- Email: your-email@example.com
